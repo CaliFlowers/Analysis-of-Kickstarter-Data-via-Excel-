@@ -3,10 +3,10 @@
 Microsoft Excel is the most basic tool in a Data Analyst's toolbox. Most data analysis tasks are relatively simple; and Excel is equipped to handle these. In this example, Microsoft Excel is used to analyze Kickstarter Data with basic procedures while demonstrating basic tasks in data analytics. While Excel is ofte associated with fields like accounting and bookeeping, statisticians, students, teachers, and anyone who has to do recordkeeping and data collection will find Excel useful for basic data analysis. 
 
 ## Table of Contents
-* [1.INTERMEDIATE VALUES](#1.Deriving-Intermediate-Values)
-* [2.AGGREGATION](#2.Aggregation)
-* [3.VISUALIZATION](#3.Visualization)
-* [4.ANALYSIS](#4.Analysis)
+* [1.INTERMEDIATE VALUES](#1-Deriving-Intermediate-Values)
+* [2.AGGREGATION](#2-Aggregation)
+* [3.VISUALIZATION](#3-Visualization)
+* [4.ANALYSIS](#4-Analysis)
 
 
 ## 1.Deriving Intermediate Values 
